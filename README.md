@@ -31,7 +31,7 @@ If you wish to see and run the code behind this project, please follow the instr
 
 ### 1. Clone the Repository
 
-- Copy the HTTPS link available through the green <> Code button.
+- Copy the HTTPS link available through the green `<> Code` button.
 - Open your terminal (CTRL ALT T) and navigate to your desired folder using `cd <filepath>`.
 - Clone the repo:
   - `git clone <HTTPS link>`
